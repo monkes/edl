@@ -1,4 +1,4 @@
 [submodule "Loaders"]
 	path = Loaders
-	url = https://github.com/bkerler/Loaders
+	url = https://github.com/Niemandausduisburg/Loaders.git
         branch = main
